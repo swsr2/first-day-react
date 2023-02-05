@@ -7,7 +7,7 @@ export default function App() {
       <Box name="sarang" num="1" />
       <Box name="poul" num="2" />
       <Box name="sharon" num="3" />
-      <Box name="sarah" num="4" />
+      <Box name="seock" num="4" />
     </main>
   )
 }
